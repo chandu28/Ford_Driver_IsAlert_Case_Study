@@ -1,2 +1,2 @@
 # Ford_Driver_IsAlert_Case_Study
-The objective of this challenge is to find whether the driver of this ford car is alert or not employing many combination of vehicular, environmental and driver physiological data that are acquired while driving.
+The objective of this challenge is to find whether the driver of this ford car is alert or not employing many combination of vehicular, environmental and driver physiological data that are acquired while driving.The data for this particular challenge is available int his thid webpage https://www.kaggle.com/c/stayalert. One can download the data from this webpage with three files train,test data and sample submission file.
